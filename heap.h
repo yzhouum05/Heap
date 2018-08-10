@@ -1,11 +1,3 @@
-//
-//  Header.h
-//  Data Structure
-//
-//  Created by Zhou, Yifan on 8/8/18.
-//  Copyright © 2018 Zhou, Yifan. All rights reserved.
-//
-
 #ifndef Header_h
 #define Header_h
 
