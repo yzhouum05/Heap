@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Data Structure
-//
-//  Created by Zhou, Yifan on 8/8/18.
-//  Copyright © 2018 Zhou, Yifan. All rights reserved.
-//
-
 #include <iostream>
 #include "heap.h"
 using namespace std;
