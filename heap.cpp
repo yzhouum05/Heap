@@ -1,10 +1,3 @@
-//
-//  heap.cpp
-//  Data Structure
-//
-//  Created by Zhou, Yifan on 8/8/18.
-//  Copyright © 2018 Zhou, Yifan. All rights reserved.
-//
 #include "heap.h"
 #include <stdio.h>
 using namespace std;
